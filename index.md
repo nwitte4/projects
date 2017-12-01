@@ -7,9 +7,13 @@ Also, here is a link to [my blog](https://nwitte4.github.io/).
 ### Projects
 
 
-[Play Hangman]()
+[Play Hangman](https://nwitte4.github.io/hangman/)
+
 [Soundcloud API Jukebox]()
+
 [Blogging App](https://whispering-woodland-38811.herokuapp.com/posts)
+
 [Micro-Blogging 'Fake Twitter' App]()
+
 [Sitter Setter]()
 
